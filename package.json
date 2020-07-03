@@ -1,0 +1,20 @@
+{
+    "name": "pokedex",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon index.js".,
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Roger-Melo/pokedex/issues"
+    },
+    "homepage": "https://github.com/Roger-Melo/pokedex#readme",
+    "dependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
